@@ -1,4 +1,4 @@
-I will be sharing a script using Keras for training a Convolutional Neural Network (CNN) with transfer learning for melanoma detection. You can find the code in <a href="https://github.com/abderhasan/cnn_melanoma_classification_transfer_learning_keras"><strong>this GitHub repository</strong></a>. In the <a href="https://abder.io/training-a-cnn-from-scratch-for-melanoma-detection-using-keras/"><strong>previous post</strong></a>, the CNN was trained from scratch without augmenting the data.
+I will be sharing a script using Keras for training a Convolutional Neural Network (CNN) with transfer learning for melanoma detection. You can find the code in <a href="https://github.com/abderhasan/cnn_melanoma_classification_transfer_learning_keras"><strong>this GitHub repository</strong></a>.
 
 Before proceeding, make sure that you structure the data as follows (the numbers represent the number of images in each file):
 
