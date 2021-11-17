@@ -21,23 +21,3 @@ You need to edit the following variables to point to your data:
 <em>validation_directory</em> (path to your training directory)
 
 <em>test_directory</em> (path to your testing directory)
-
-<strong>What should you expect (outputs)?</strong>
-
-<em>Training and validation accuracy</em>
-
-<img class="aligncenter size-full wp-image-873" src="https://abder.io/wp-content/uploads/2019/01/accuracy-2.png" alt="" width="640" height="480" />
-
-&nbsp;
-
-<em>Training and validation loss</em>
-
-<img class="aligncenter size-full wp-image-874" src="https://abder.io/wp-content/uploads/2019/01/loss-2.png" alt="" width="640" height="480" />
-
-<em>ROC curve</em>
-
-<img class="aligncenter size-full wp-image-875" src="https://abder.io/wp-content/uploads/2019/01/ROC-2.png" alt="" width="640" height="480" />
-
-In addition to some other values (i.e. accuracy, confusion matrix) that will be displayed on the console.
-
-If you would like to train a CNN from scratch, you can see <strong><a href="https://abder.io/training-a-cnn-from-scratch-for-melanoma-detection-using-keras/">this post</a></strong>. If you like to train a CNN from scratch with data augmentation, you can see <strong><a href="https://abder.io/training-a-cnn-from-scratch-with-data-augmentation-for-melanoma-detection-using-keras/">this post</a></strong>.
