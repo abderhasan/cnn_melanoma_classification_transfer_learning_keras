@@ -4,7 +4,7 @@ Abder-Rahman Ali
 abder@cs.stir.ac.uk
 '''
 
-from keras.applications import VGG16
+from keras.applications.vgg16 import VGG16
 from keras.preprocessing.image import ImageDataGenerator
 from sklearn.metrics import roc_curve
 from sklearn.metrics import auc
